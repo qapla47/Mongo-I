@@ -1,0 +1,28 @@
+{
+  "name": "mongo-i",
+  "version": "1.0.0",
+  "description": "LambdaSchoolProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qapla47/Mongo-I.git"
+  },
+  "keywords": [
+    "script"
+  ],
+  "author": "LS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qapla47/Mongo-I/issues"
+  },
+  "homepage": "https://github.com/qapla47/Mongo-I#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.2"
+  }
+}
